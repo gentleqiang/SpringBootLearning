@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09de5704-aaa2-46e8-a2ce-03868c967d3f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/api/target/" />
+    <ignored path="$PROJECT_DIR$/model/target/" />
+    <ignored path="$PROJECT_DIR$/server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SpringBoot_multipart$BootMoreApplication__1_.ic" NAME="BootMoreApplication (1) Coverage Results" MODIFIED="1610285677569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-65708724">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.105" value="1" />
+          <entry key="project.open.time.106" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.804" value="1" />
+          <entry key="project.opened" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="6" />
+          <entry key="java" value="169" />
+          <entry key="properties" value="15" />
+          <entry key="xml" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="6" />
+          <entry key="JAVA" value="169" />
+          <entry key="Properties" value="15" />
+          <entry key="XML" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="18183" />
+          <entry key="properties" value="1142" />
+          <entry key="xml" value="644" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="18183" />
+          <entry key="Properties" value="1142" />
+          <entry key="SQL" value="16" />
+          <entry key="XML" value="628" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/cache/RedisCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="153" column="41" selection-start-line="153" selection-start-column="40" selection-end-line="153" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/config/RedisConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="97" column="43" selection-start-line="97" selection-start-column="43" selection-end-line="97" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="106" selection-start-line="104" selection-end-line="106" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/RedisController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/UploadController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="59" column="50" selection-start-line="59" selection-start-column="50" selection-end-line="59" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/ExcelController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="75" column="121" selection-start-line="75" selection-start-column="121" selection-end-line="75" selection-end-column="121" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/ExceptionController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/GlobalSystemAdvice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="25" column="47" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/MailSendController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="31" column="113" selection-start-line="31" selection-start-column="113" selection-end-line="31" selection-end-column="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>model</find>
+      <find>ExcelU</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/model/pom.xml" />
+        <option value="$PROJECT_DIR$/api/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/debug/steadyjack/server/BootMoreApplication.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/BootMoreApplication.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/gentleman/api/response/StatusCode.java" />
+        <option value="$PROJECT_DIR$/api/src/main/java/com/gentleman/api/response/BaseResponse.java" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/gentleman/model/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/annotation/valitionSex/SexValiator.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/annotation/SexAnnotation.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/ValitorController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/request/MailSendRequest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/MailSendController.java" />
+        <option value="$PROJECT_DIR$/server/pom.xml" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/util/TimeUtil.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/request/AppendixDto.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/AppendixService.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/UploadController.java" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/gentleman/model/entity/Appendix.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/MailService.java" />
+        <option value="$PROJECT_DIR$/model/src/main/resources/mappers/AppendixMapper.xml" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/gentleman/model/mapper/AppendixMapper.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/OrderRecordController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/exception/GlobalException.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/GlobalSystemAdvice.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/ExceptionController.java" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/gentleman/model/entity/Product.java" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/gentleman/model/mapper/ProductMapper.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/ExportService.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/util/ExcelUtil.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/enums/WorkBookVersion.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/PoiService.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/WebOperationService.java" />
+        <option value="$PROJECT_DIR$/model/src/main/resources/mappers/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/ExcelController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/request/UserRequest.java" />
+        <option value="$PROJECT_DIR$/model/src/main/resources/mappers/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/model/src/main/java/com/gentleman/model/entity/User.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/cache/RedisCache.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/RedisController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/UserService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\apache-maven-3.3.9-jar\repository" />
+        <option name="mavenHome" value="D:/develop/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.3.9-jar\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SpringBoot_multipart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SpringBoot_multipart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="21" />
+    <option name="width" value="1940" />
+    <option name="height" value="764" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringBoot_multipart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_multipart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_multipart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_multipart" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_multipart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_multipart" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_multipart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_multipart" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_multipart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_multipart" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_multipart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_multipart" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_multipart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_multipart" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_multipart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_multipart" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_multipart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_multipart" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_multipart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_multipart" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBoot_multipart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBoot_multipart" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="UserM&#9;FILE&#9;file://D:/WorkSpaceLearning/SpringBoot_multipart/model/src/main/resources/mappers/UserMapper.xml&#10;pro&#9;FILE&#9;file://D:/WorkSpaceLearning/SpringBoot_multipart/model/src/main/resources/mappers/ProductMapper.xml&#10;app&#9;FILE&#9;file://D:/WorkSpaceLearning/SpringBoot_multipart/server/src/main/resources/application.properties&#10;application.p&#9;FILE&#9;file://D:/WorkSpaceLearning/SpringBoot_multipart/server/src/main/resources/application.properties&#10;Exce&#9;FILE&#9;file://D:/WorkSpaceLearning/SpringBoot_multipart/server/src/main/java/com/gentleman/server/controller/ExceptionController.java&#10;Append&#9;FILE&#9;file://D:/WorkSpaceLearning/SpringBoot_multipart/model/src/main/resources/mappers/AppendixMapper.xml&#10;appli&#9;FILE&#9;file://D:/WorkSpaceLearning/SpringBoot_multipart/server/src/main/resources/application.properties" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615166060953" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpaceLearning\SpringBoot_multipart\model\src\main\resources\mappers" />
+      <recent name="D:\WorkSpaceLearning\SpringBoot_multipart\model\src\main\java\com\gentleman\model\mapper" />
+      <recent name="D:\WorkSpaceLearning\SpringBoot_multipart\model\src\main\java\com\gentleman\model\entity" />
+      <recent name="D:\WorkSpaceLearning\SpringBoot_multipart\server\src\main\java\com\gentleman\server\enums" />
+      <recent name="D:\WorkSpaceLearning\SpringBoot_multipart\server\src\main\java\com\gentleman\server\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BootMoreApplication (1)">
+    <configuration name="RedisCache$test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gentleman.server.cache.RedisCache$test" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gentleman.server.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="SpringBoot_multipart" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="SpringBoot_multipart" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BootMoreApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gentleman.server.BootMoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootMoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.debug.steadyjack.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.debug.steadyjack.server.BootMoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.BootMoreApplication (1)" />
+      <item itemvalue="Spring Boot.BootMoreApplication" />
+      <item itemvalue="Application.RedisCache$test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RedisCache$test" />
+        <item itemvalue="Spring Boot.BootMoreApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09de5704-aaa2-46e8-a2ce-03868c967d3f" name="Default Changelist" comment="" />
+      <created>1590496908797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590496908797</updated>
+      <workItem from="1590496910466" duration="2399000" />
+      <workItem from="1590499318292" duration="753000" />
+      <workItem from="1590500264717" duration="760000" />
+      <workItem from="1591099300401" duration="937000" />
+      <workItem from="1591100254982" duration="984000" />
+      <workItem from="1600782053622" duration="820000" />
+      <workItem from="1601026459283" duration="4423000" />
+      <workItem from="1601041997943" duration="1351000" />
+      <workItem from="1601117599961" duration="1561000" />
+      <workItem from="1602468614204" duration="344000" />
+      <workItem from="1602558785870" duration="999000" />
+      <workItem from="1602748283353" duration="1133000" />
+      <workItem from="1604327330174" duration="2137000" />
+      <workItem from="1604387314890" duration="4080000" />
+      <workItem from="1604405390375" duration="725000" />
+      <workItem from="1604406146394" duration="177000" />
+      <workItem from="1604406338032" duration="795000" />
+      <workItem from="1605613021240" duration="827000" />
+      <workItem from="1605614290035" duration="2231000" />
+      <workItem from="1609137914011" duration="8521000" />
+      <workItem from="1609230807469" duration="19000" />
+      <workItem from="1609559335462" duration="34558000" />
+      <workItem from="1610979578142" duration="10047000" />
+      <workItem from="1612422071439" duration="863000" />
+      <workItem from="1612515725684" duration="4529000" />
+      <workItem from="1612754950572" duration="5301000" />
+      <workItem from="1613700107915" duration="16356000" />
+      <workItem from="1613896466180" duration="15705000" />
+      <workItem from="1615121103675" duration="4674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="128009000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83016104" visible="true" weight="0.25670242" />
+      <window_info id="Structure" order="1" sideWeight="0.16983895" side_tool="true" visible="true" weight="0.25670242" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21815519" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.12445095" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.27672035" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.329429" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2796486" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.5016949" side_tool="true" weight="0.16621985" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24965987" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.32993197" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.49830508" visible="true" weight="0.061662197" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19168901" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5475842" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.26061493" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.6105417" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.5016949" side_tool="true" weight="0.16621985" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24965987" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.32993197" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.49830508" visible="true" weight="0.13069706" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/data/spring-data-redis/1.6.4.RELEASE/spring-data-redis-1.6.4.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperations.java</url>
+          <line>55</line>
+          <properties class="org.springframework.data.redis.core.ValueOperations" method="increment">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/lib/tools.jar!/com/sun/tools/javac/util/List.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="159" column="7" lean-forward="true" selection-start-line="159" selection-start-column="7" selection-end-line="159" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/spring-core/4.2.5.RELEASE/spring-core-4.2.5.RELEASE-sources.jar!/org/springframework/util/CollectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="50" column="52" lean-forward="true" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/apache/poi/poi/3.15/poi-3.15.jar!/org/apache/poi/ss/usermodel/Workbook.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2014">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/apache/poi/poi/3.15/poi-3.15-sources.jar!/org/apache/poi/ss/usermodel/Workbook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/slf4j/jcl-over-slf4j/1.7.16/jcl-over-slf4j-1.7.16-sources.jar!/org/apache/commons/logging/impl/SLF4JLocationAwareLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/ch/qos/logback/logback-classic/1.1.5/logback-classic-1.1.5.jar!/ch/qos/logback/classic/Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="485" selection-start-line="485" selection-end-line="485" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/spring-webmvc/4.2.5.RELEASE/spring-webmvc-4.2.5.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="816" selection-start-line="816" selection-end-line="816" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/PoiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5106">
+          <caret line="242" column="21" selection-start-line="242" selection-start-column="21" selection-end-line="242" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/ExportService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/WebOperationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2024">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/resources/mappers/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3496">
+          <caret line="152" column="49" selection-start-line="152" selection-start-column="49" selection-end-line="152" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/gentleman/model/mapper/ProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/gentleman/model/entity/OrderRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/gentleman/model/entity/Orders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/gentleman/model/entity/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1017">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/OrderRecordController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/ValitorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1569">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/impl/UserServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/gentleman/model/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/resources/mappers/AppendixMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="169" column="12" selection-start-line="169" selection-start-column="12" selection-end-line="169" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/enums/WorkBookVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/AppendixService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="41" selection-start-line="40" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/spring-core/4.2.5.RELEASE/spring-core-4.2.5.RELEASE-sources.jar!/org/springframework/core/env/PropertyResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5-sources.jar!/com/fasterxml/jackson/annotation/JsonFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="76" column="18" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/spring-webmvc/4.2.5.RELEASE/spring-webmvc-4.2.5.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE-sources.jar!/org/springframework/web/method/support/ModelAndViewContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/request/UserRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/resources/mappers/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/data/spring-data-redis/1.6.4.RELEASE/spring-data-redis-1.6.4.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/data/spring-data-redis/1.6.4.RELEASE/spring-data-redis-1.6.4.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultValueOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/target/classes/com/gentleman/server/cache/RedisCache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/data/spring-data-redis/1.6.4.RELEASE/spring-data-redis-1.6.4.RELEASE-sources.jar!/org/springframework/data/redis/serializer/RedisSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/data/spring-data-redis/1.6.4.RELEASE/spring-data-redis-1.6.4.RELEASE-sources.jar!/org/springframework/data/redis/core/HashOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/data/spring-data-redis/1.6.4.RELEASE/spring-data-redis-1.6.4.RELEASE-sources.jar!/org/springframework/data/redis/core/DefaultHashOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="73" column="23" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/util/TimeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/util/ExcelUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/com/gentleman/model/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/apache-maven-3.3.9-jar/repository/org/springframework/data/spring-data-redis/1.6.4.RELEASE/spring-data-redis-1.6.4.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="963" selection-start-line="963" selection-end-line="963" />
+          <folding>
+            <element signature="e#14414#14415#0" expanded="true" />
+            <element signature="e#14452#14453#0" expanded="true" />
+            <element signature="e#32240#32241#0" expanded="true" />
+            <element signature="e#32296#32297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="49" selection-start-line="49" selection-end-line="49" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/ExceptionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/GlobalSystemAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/MailSendController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="31" column="113" selection-start-line="31" selection-start-column="113" selection-end-line="31" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/cache/RedisCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="153" column="41" selection-start-line="153" selection-start-column="40" selection-end-line="153" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="97" column="43" selection-start-line="97" selection-start-column="43" selection-end-line="97" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="106" selection-start-line="104" selection-end-line="106" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/RedisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/UploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="59" column="50" selection-start-line="59" selection-start-column="50" selection-end-line="59" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/gentleman/server/controller/ExcelController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="75" column="121" selection-start-line="75" selection-start-column="121" selection-end-line="75" selection-end-column="121" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>model</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

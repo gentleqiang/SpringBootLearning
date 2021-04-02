@@ -1,0 +1,15 @@
+com\gentleman\model\mapper\ProductMapper.class
+com\gentleman\model\mapper\OrdersMapper.class
+com\gentleman\model\mapper\ItemsMapper.class
+com\gentleman\model\mapper\OrderdetailMapper.class
+com\gentleman\model\mapper\AppendixMapper.class
+com\gentleman\model\entity\Orders.class
+com\gentleman\model\entity\Product.class
+com\gentleman\model\mapper\OrderRecordMapper.class
+com\gentleman\model\entity\Items.class
+com\gentleman\model\entity\Orderdetail.class
+com\gentleman\model\entity\User.class
+com\gentleman\model\mapper\UserMapper.class
+com\gentleman\model\Main.class
+com\gentleman\model\entity\Appendix.class
+com\gentleman\model\entity\OrderRecord.class
